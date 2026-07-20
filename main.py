@@ -47,7 +47,7 @@ while choice != 4:
   elif choice == 3:
     found = False
     print("Search food")
-    category_search = input("Enter your Search: ")
+    category_search = input("Enter your category_search: ")
     
      
     for food in foods:
